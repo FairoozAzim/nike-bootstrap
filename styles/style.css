@@ -1,0 +1,15 @@
+.m-left {
+    margin-left: 100px;
+}
+
+header {
+    background-color: rgba(255, 249, 244, 1);
+}
+
+.card-image {
+    background: #E5E5E5;
+}
+
+.info {
+    width: 40%;
+}
